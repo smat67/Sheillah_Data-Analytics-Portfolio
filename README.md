@@ -13,7 +13,7 @@ Welcome to my professional portfolio! I am a certified **ALX Virtual Assistant**
   * Cleaned and restructured disparate transaction records to eliminate reporting errors.
   * Formulated calculated fields to isolate dynamic profit margins and rolling monthly averages.
   * Created user-friendly filters allowing stakeholders to slice performance by geographical region and product type.
-* **🔗 [Click Here to View Interactive Dashboard Live on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK_WILL_GO_HERE)**
+* **🔗 [Click Here to View Interactive Dashboard Live on Tableau Public]([YOUR_TABLEAU_PUBLIC_LINK_WILL_GO_HERE](https://public.tableau.com/app/profile/sheillah.matsvimbo/viz/CommercialSalesOperationsExecutiveDashboard/Dashboard1?publish=yes)**
 
 ---
 
